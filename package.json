@@ -1,0 +1,17 @@
+{
+  "name": "coingecko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coingecko-api": "^1.0.10",
+    "date-fns": "^2.19.0",
+    "fs-extra": "^9.1.0"
+  }
+}
