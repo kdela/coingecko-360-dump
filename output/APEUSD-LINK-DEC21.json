@@ -1,0 +1,10 @@
+{
+	"success": true,
+	"message": "OK",
+	"code": 200,
+	"data": {
+		"prices": [],
+		"market_caps": [],
+		"total_volumes": []
+	}
+}
